@@ -31,7 +31,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Aplicativo para Smartphone
 
-<li><a href="App/README.md"> Aplicativo </a></li>
+<li><a href="App"> Aplicativo </a></li>
 
 # Apresentação
 
