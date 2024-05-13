@@ -1,17 +1,17 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`PUC Minas - Unidade Praça da Liberdade`
 
-`CURSO`
+`Engenharia de computação`
 
-`SEMESTRE`
+`1º Semestre`
 
-`DISCIPLINA`
+`LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Fernando Augusto Palhares Barbosa
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -19,7 +19,7 @@
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
