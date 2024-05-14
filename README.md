@@ -12,10 +12,10 @@
 ## Integrantes
 
 * Fernando Augusto Palhares Barbosa
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Joao Pedro F Gomes
+* Kaylaine Sthephany Machado de Almeida
+* Victor Hugo Nunes Lima
+* Rafael Filardi Caldeira
 
 ## Orientador
 
