@@ -12,6 +12,7 @@
 ## Integrantes
 
 * Fernando Augusto Palhares Barbosa
+* Flávio Guto Teixeira Bezerra 
 * Joao Pedro F Gomes
 * Kaylaine Sthephany Machado de Almeida
 * Victor Hugo Nunes Lima
