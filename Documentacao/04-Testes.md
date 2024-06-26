@@ -1,3 +1,9 @@
 # Testes do Projeto
 
 Descreva aqui como foram realizados os testes para o funcionamento do projeto. Descreva também os resultados encontrados e as limitações do projeto.
+
+Teste de Construção: Durante a construção do projeto, usamos várias formas diferentes. Inicialmente a ideia era tentar fazer uma modificação nos motores de passo usando uma placa CNC shield, porém o modelo foi descartado depois de um tempo, já que os dois primeiros motores acabarem quebrando e a placa não funcionando. Isso nos forçou a voltar à ideia original, usando dois motores de passo novos só que agora sem a modificação, e ao invés de usarmos um código para Arduíno Uno, modificamos para usarmos para Esp32, pela facilidade de integrar o modulo bluetooth, uma vez que ele já possui essa tecnologia embutida. 
+
+Teste Montado: Os testes foram realizados pelo terminal por meio do bluetooth. No começo, conseguimos fazer apenas alguns riscos com a caneta, mas não conseguimos cumprir o objetivo principal do projeto, que seria, além de podermos ter uma forma livre para se usar a impressora, ela também conseguiria imprimir imagens já programadas. Apesar de todo o trabalho feito pelo grupo, não conseguimos concluir o projeto da forma esperada, fazendo uma impressora que segue apenas comandos manuais do usuário.
+
+Dentre suas principais limitações esperadas, está o fato de que ela imprimiria apenas imagens pré-programadas, impossibilitando o envio de arquivos escolhidos pelo usuário e o fato de que o sistema de controle livre não teria a opção de se mover para as diagonais e nem de fazer curva, o que também limitaria as formas de desenho possíveis.
