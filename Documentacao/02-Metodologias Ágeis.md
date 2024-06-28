@@ -6,7 +6,7 @@
 A criação da impressora 2D controlada por um Esp32 e App Inventor foi realizada utilizando a metodologia de desenvolvimento conhecida como Modelo Cascata. Este modelo é caracterizado por uma abordagem linear e sequencial, onde cada fase do projeto deve ser concluída antes que a próxima comece. 
 Fases do Projeto Segundo o Modelo Cascata
 
-#⦁	Requisitos
+# Requisitos
   
 ⦁	Atividades Realizadas: Nesta fase, o grupo reuniu todos os requisitos necessários para o desenvolvimento da  impressora, incluindo especificações técnicas e funcionalidades desejadas. Foram comprados 1x esp32, 2x motor de passo 28byj-48 com controlador ULN2003AN, 1x servo motor SG90 e protoboard e cabos.
 ⦁	Responsáveis: Todos os membros participaram da coleta de requisitos, garantindo que o projeto fosse documentado corretamente.
