@@ -15,8 +15,8 @@
 * Flávio Guto Teixeira Bezerra 
 * João Pedro Ferreira Gomes
 * Kaylaine Sthephany Machado de Almeida
-* Victor Hugo Nunes Lima
 * Rafael Filardi Caldeira
+* Victor Hugo Nunes Lima
 
 ## Orientador
 
