@@ -84,4 +84,6 @@ esquerda.
 
 • Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
 
+
+
 (Feito por Flávio e João)
