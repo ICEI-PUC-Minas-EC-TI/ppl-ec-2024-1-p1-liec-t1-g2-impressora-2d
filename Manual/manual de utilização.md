@@ -1,41 +1,47 @@
-<span align="center">
 
 
-## Instruções de utilização da Impressora 2d
 
-### 1. Introdução
+# Instruções de utilização da Impressora 2d
+
+## 1. Introdução
 Este dispositivo permite a criação de desenhos utilizando uma caneta movida quatro conjuntos de barbantes ligados a dois motores. O aplicativo e usado para controlar a impressora, conecta-se via Bluetooth e oferece opções de imagens predefinidas, além do controle manual da caneta.
 
-### 2. Como Usar o Aplicativo
+## 2. Como Usar o Aplicativo
 
-Conexão Bluetooth
-</span>
+### Conexão Bluetooth
 
-<div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/8dd702b7-01df-47c4-b443-0dbddc93b51f)" width="7px" />
-</div>
+#### 1. Ligue o Esp32.
+• Certifique-se de que o Esp32 esteja conectado à uma fonte de alimentação de 5 volts.
 
+#### 2. Ative o Bluetooth no seu dispositivo.
+• Vá para as configurações de seu dispositivo e certifique-se seu Bluetooth está ativado.
 
-![Design sem nome](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/8dd702b7-01df-47c4-b443-0dbddc93b51f)
+<img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/92a6f311-7ebb-478e-834c-2cd0b28dbf23" width="300px" />
+ 
+• Com o controlador Esp32 ligado, conecte ao dispositivo que ficará disponivel como "Impressora 2d".
 
-Ligue Esp32.
-Certifique-se de que o Esp32 esteja conectado à uma fonte de alimentação de 5 volts.
-Ative o Bluetooth no seu dispositivo.
-Vá para as configurações de seu dispositivo e certifique-se seu Bluetooth está ativado.
-Faça o download do aplicativo.
-Faça o download do aplicativo em um dispositivo compatível (Android ou Emuladores. Ex: BlueStacks).
-Conecte ao Esp32.
-Vá nas configurações de aplicativos do seu dispositivo, e permita o aplicativo da impressora de conectar-se em dispositivos Bluetooth
-Conecte seu aparelho no dispositivo que ficará disponivel como "Impressora 2d" via Bluetooth.
-     5. Abra o aplicativo da impressora.
-Inicie o aplicativo no seu dispositivo.
-Seleção de Imagens
-Coloque o suporte da caneta no centro.
-Mova manualmente o suporte da caneta até o centro do papel, para que o desenho fique alinhado.
-Escolha a imagem desejada.
-Na parte superior do aplicativo, clique em uma das quatro imagens predefinidas.
-Inicie o desenho.
-Clique no botão do desenho de seu agrado para que a impressora comece a desenhar a imagem selecionada.
+<img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/42c91951-af39-41ce-863f-10db6dfd1588" width="300px" />
+
+#### 3. Faça o download do aplicativo.
+• Faça o download do aplicativo em um dispositivo compatível (Android ou Emuladores. Ex: BlueStacks).
+
+#### 4. Conecte ao Esp32.
+• Vá nas configurações de aplicativos do seu dispositivo, e permita que o aplicativo da impressora acesse os dispositivos por perto.
+ 
+ <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/cb68d4fe-fd89-4f03-9807-67e94b631ee5" width="300px" /> <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/36d70bcb-a8d9-4172-9073-5c68cc182581" width="300px" />
+
+#### 5. Abra o aplicativo da impressora.
+• Inicie o aplicativo no seu dispositivo.
+
+### Seleção de Imagens
+#### 1. Centralize o suporte da caneta.
+• Mova manualmente o suporte da caneta até o centro do papel, para que o desenho fique alinhado.
+
+#### 2. Escolha a imagem desejada.
+• Na parte superior do aplicativo, Existem 4 opção de desenhos predefinidos. clique em uma das quatro imagens predefinidas para inciar a impressão do desenho selecionado.
+ 
+ 7. Inicie o desenho.
+• Clique em uma das quatro imagens predefinidas para inciar a impressão do desenho selecionado.
 Controle Manual da Caneta
 Acesse o modo de controle manual.
 Na parte inferior do aplicativo, há setas de direção.
