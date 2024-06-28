@@ -50,7 +50,7 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
 
 ### Seleção de Imagens
 #### 1. Centralize o suporte da caneta.
-• Mova manualmente o suporte da caneta até o centro do papel, para que o desenho fique alinhado.
+• Mova manualmente o suporte da caneta até o centro da base, para que o desenho fique alinhado.
 
 #### 2. Escolha o desenho e inicie a impressão.
 • Na parte superior direita do aplicativo, Existem 2 opções de desenhos predefinidos. clique em um dos dois desenhos predefinidas para inciar a impressão.
