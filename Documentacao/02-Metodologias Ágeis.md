@@ -4,7 +4,7 @@
 # Metodologia
 
  A criação da impressora 2D controlada por um Esp32 e App Inventor foi realizada utilizando a metodologia de desenvolvimento conhecida como Modelo Cascata. Este modelo é caracterizado por uma abordagem linear e sequencial, onde cada fase do projeto deve ser concluída antes que a próxima comece. 
-Fases do Projeto Segundo o Modelo Cascata
+Fases do Projeto Segundo o Modelo Cascata.
 
  
 ### ⦁ Requisitos
@@ -60,7 +60,7 @@ João Pedro Ferreira Gomes e Kaylaine Sthephany Machado de Almeida cuidaram da d
 Responsável pela documentação no GitHub e programação do ESP32, assegurou que todas as etapas fossem bem documentadas e que o microcontrolador estivesse devidamente programado.
 
 #### Flávio Guto Teixeira Bezerra: 
-Contribuiu na montagem física e programação do ESP32, garantindo a operacionalidade da impressora em nível de hardware.
+Contribuiu na formatação da documentação para o GitHub, alem da montagem física e programação do ESP32, garantindo a operacionalidade da impressora em nível de hardware.
 
 #### Fernando Augusto Palhares Barbosa: 
 Atuando como Scrum Master, coordenou as atividades de montagem, programação geral e organização do projeto, além de realizar compras e gerenciar a logística.
@@ -72,13 +72,8 @@ Responsável pela documentação no GitHub e pela montagem física da impressora
 Desenvolveu o design e o código do aplicativo usado para controlar a impressora, garantindo uma interface intuitiva e funcional.
 
 #### Victor Hugo Nunes Lima: 
-Encarregado da compra e organização das finanças, geriu os recursos necessários para a aquisição de componentes e manteve o controle financeiro do projeto.
+Encarregado da compra e organização das finanças, geriu os recursos necessários para a aquisição de componentes e manteve o controle financeiro do projeto. 
 
-
-# Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
 
 # Ferramentas
 
