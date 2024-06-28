@@ -8,10 +8,11 @@ Fases do Projeto Segundo o Modelo Cascata
 
 ### Requisitos
   
-⦁	Atividades Realizadas: Nesta fase, o grupo reuniu todos os requisitos necessários para o desenvolvimento da  impressora, incluindo especificações técnicas e funcionalidades desejadas. Foram comprados 1x esp32, 2x motor de passo 28byj-48 com controlador ULN2003AN, 1x servo motor SG90 e protoboard e cabos.
-⦁	Responsáveis: Todos os membros participaram da coleta de requisitos, garantindo que o projeto fosse documentado corretamente.
+#### Atividades Realizadas:
+Nesta fase, o grupo reuniu todos os requisitos necessários para o desenvolvimento da  impressora, incluindo especificações técnicas e funcionalidades desejadas. Foram comprados 1x esp32, 2x motor de passo 28byj-48 com controlador ULN2003AN, 1x servo motor SG90 e protoboard e cabos.
+#### Responsáveis: Todos os membros participaram da coleta de requisitos, garantindo que o projeto fosse documentado corretamente.
 
-⦁	Design
+### Design
  
 ⦁	Atividades Realizadas: O grupo criou o design da impressora e do aplicativo, detalhando o funcionamento dos componentes e fazendo uma interface agradável para o aplicativo.
 ⦁	Responsável pelo Design: Rafael Filardi Caldeira desenvolveu o design do aplicativo que controlaria a impressora, já a impressora todos foram responsáveis por estipular como ela funcionária.
