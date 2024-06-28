@@ -32,8 +32,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Aplicativo para Smartphone
 
-<li><a href="App/Impressora 2d.apk"> Aplicativo.apk </a></li>
-<li><a href="App/Impressora2d.ino"> Aplicativo.ino </a></li>
+<li><a href="App/Impressora2d_2.apk"> Aplicativo.apk </a></li>
+<li><a href="App/Impressora2d_2.aia"> Aplicativo.ino </a></li>
 
 # Apresentação
 
