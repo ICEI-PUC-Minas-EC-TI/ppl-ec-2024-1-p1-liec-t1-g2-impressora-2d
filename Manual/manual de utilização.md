@@ -33,7 +33,7 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
 #### 4. Conecte ao Esp32.
 • Vá nas configurações de aplicativos do seu dispositivo, e permita que o aplicativo da impressora acesse os dispositivos por perto.
  
- <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/cb68d4fe-fd89-4f03-9807-67e94b631ee5" width="300px" /> <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/36d70bcb-a8d9-4172-9073-5c68cc182581" width="300px" />
+ <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/cb68d4fe-fd89-4f03-9807-67e94b631ee5" width="300px" /> <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/36d70bcb-a8d9-4172-9073-5c68cc182581" width="313px" />
 
 #### 5. Abra o aplicativo da impressora.
 • Ao iniciar o aplicativo, essa será a tela inicial.
@@ -85,7 +85,4 @@ esquerda.
 • Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
 
 
-
 (Feito por Flávio e João)
-
-
