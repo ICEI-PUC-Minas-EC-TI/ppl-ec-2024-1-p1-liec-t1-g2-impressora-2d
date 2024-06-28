@@ -38,7 +38,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 # Apresentação
 
 <ol>
-<li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
+<li><a href="Apresentacao"> Vídeo do Funcionamento</a></li>
 <li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
 </ol>
 
