@@ -1,3 +1,5 @@
+<span align="center">
+
 
 ## Instruções de utilização da Impressora 2d
 
@@ -7,9 +9,11 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida qu
 ### 2. Como Usar o Aplicativo
 
 Conexão Bluetooth
-div align="center"
-img src="![Design sem nome](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/8dd702b7-01df-47c4-b443-0dbddc93b51f)" width="200px" /
-/div
+</span>
+
+<div align="center">
+<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/8dd702b7-01df-47c4-b443-0dbddc93b51f)" width="7px" />
+</div>
 
 
 ![Design sem nome](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/8dd702b7-01df-47c4-b443-0dbddc93b51f)
