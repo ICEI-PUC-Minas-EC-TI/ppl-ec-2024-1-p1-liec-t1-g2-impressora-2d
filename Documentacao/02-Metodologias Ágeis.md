@@ -3,79 +3,47 @@
 
 # Metodologia
 
- A criação da impressora 2D controlada por um Esp32 e App Inventor foi realizada utilizando a metodologia de desenvolvimento conhecida como Modelo Cascata. Este modelo é caracterizado por uma abordagem linear e sequencial, onde cada fase do projeto deve ser concluída antes que a próxima comece. 
-Fases do Projeto Segundo o Modelo Cascata.
+Metodologia Utilizada pelo Grupo na Criação da Impressora com Base no Modelo Cascata
+Para a criação da impressora controlada por Arduino e App Inventor, o grupo de estudantes utilizou o Modelo Cascata, uma abordagem de desenvolvimento de software linear e sequencial. Este modelo é adequado para projetos com requisitos bem definidos, permitindo um processo organizado e estruturado.
 
- 
-### ⦁ Requisitos
+### Fases do Projeto Segundo o Modelo Cascata.
 
-#### Atividades Realizadas:
- Nesta fase, o grupo reuniu todos os requisitos necessários para o desenvolvimento da  impressora, incluindo especificações técnicas e funcionalidades desejadas. Foram comprados 1x esp32, 2x motor de passo 28byj-48 com controlador ULN2003AN, 1x servo motor SG90 e protoboard e cabos.
-#### Responsáveis: 
- Todos os membros participaram da coleta de requisitos, garantindo que o projeto fosse documentado corretamente.
+Requisitos: A primeira fase envolveu a coleta e documentação detalhada dos requisitos técnicos e funcionais necessários para o desenvolvimento da impressora.
 
-### ⦁ Design
- 
-#### Atividades Realizadas: 
-O grupo criou o design da impressora e do aplicativo, detalhando o funcionamento dos componentes e fazendo uma interface agradável para o aplicativo.
-#### Responsável pelo Design: 
-Rafael Filardi Caldeira desenvolveu o design do aplicativo que controlaria a impressora, já a impressora todos foram responsáveis por estipular como ela funcionária.
+Design: Em seguida, o grupo criou o design da impressora e do aplicativo de controle, detalhando a estrutura dos componentes e a interface de usuário.
 
-### ⦁	Implementação
- 
-#### Atividades Realizadas: 
-Durante esta fase, a impressora foi fisicamente montada, e o código para o controle do dispositivo e do aplicativo foi desenvolvido.
-#### Montagem Física da Impressora: 
-Flávio Guto Teixeira Bezerra, Kaylaine Sthephany Machado de Almeida e Victor Hugo Nunes Lima foram responsáveis pela montagem dos componentes físicos da impressora.
-#### Programação: 
-João Pedro Ferreira Gomes, Flávio Guto Teixeira Bezerra e Fernando Augusto Palhares Barbosa programaram o microcontrolador ESP32 que controla a impressora.
-#### Desenvolvimento do Aplicativo: 
-Rafael Filardi Caldeira foi o responsável pelo desenvolvimento e design e funcionamento do aplicativo utilizado para controlar a impressora.
+Implementação: Na fase de implementação, a impressora foi montada fisicamente e o software, incluindo a programação do ESP32 e o desenvolvimento do aplicativo, foi codificado e integrado.
 
-### ⦁	Integração
- 
-#### Atividades Realizadas: 
-A integração das partes físicas e lógicas da impressora foi realizada nesta fase. O grupo garantiu que o hardware e o software funcionassem de forma coesa.
-#### Responsáveis pela Integração: 
-Todos os membros colaboraram para garantir que a impressora funcionasse conforme o esperado, com especial participação de Fernando Augusto Palhares Barbosa na organização e integração dos componentes.
+Integração: Os componentes de hardware e software foram integrados para garantir que a impressora funcionasse de forma coesa e eficiente.
 
-### ⦁	Testes
-  
-#### Atividades Realizadas: 
-Nesta etapa, foram realizados testes para garantir que a impressora funcionasse corretamente e atendesse a todos os requisitos especificados.
-#### Responsáveis: 
-Todos os membros participaram dos testes, com ênfase em identificar e corrigir possíveis falhas no sistema.
+Testes: Foram realizados testes rigorosos para verificar a funcionalidade da impressora e assegurar que todos os requisitos fossem atendidos.
 
-### ⦁	Manutenção
-  
-#### Atividades Realizadas: 
-Após a conclusão do projeto, o grupo realizou atividades de manutenção, incluindo documentação detalhada e ajustes necessários para o funcionamento contínuo da impressora.
-#### Responsáveis pela Documentação: 
-João Pedro Ferreira Gomes e Kaylaine Sthephany Machado de Almeida cuidaram da documentação no GitHub para assegurar que todas as modificações e atualizações fossem registradas corretamente.
+Manutenção: Após a implementação, o grupo documentou o projeto e realizou manutenções necessárias para garantir a continuidade e a funcionalidade da impressora.
 
+## Divisão de Papéis
 
-# Divisão de Papéis
+### Funções dos Integrantes
 
-#### João Pedro Ferreira Gomes: 
-Responsável pela documentação no GitHub e programação do ESP32, assegurou que todas as etapas fossem bem documentadas e que o microcontrolador estivesse devidamente programado.
+#### *João Pedro Ferreira Gomes: 
+Documentação no GitHub e programação do ESP32.
 
-#### Flávio Guto Teixeira Bezerra: 
-Contribuiu na formatação da documentação para o GitHub, alem da montagem física e programação do ESP32, garantindo a operacionalidade da impressora em nível de hardware.
+#### *Flávio Guto Teixeira Bezerra: 
+Montagem física e programação do ESP32.
 
-#### Fernando Augusto Palhares Barbosa: 
-Atuando como Scrum Master, coordenou as atividades de montagem, programação geral e organização do projeto, além de realizar compras e gerenciar a logística.
+#### *Fernando Augusto Palhares Barbosa: 
+Scrum Master, coordenação do projeto, montagem e programação geral.
 
-#### Kaylaine Sthephany Machado de Almeida: 
-Responsável pela documentação no GitHub e pela montagem física da impressora, assegurou que todos os passos fossem registrados e que a montagem estivesse em conformidade com os requisitos.
+#### *Kaylaine Sthephany Machado de Almeida: 
+Documentação no GitHub e montagem física.
 
-#### Rafael Filardi Caldeira: 
-Desenvolveu o design e o código do aplicativo usado para controlar a impressora, garantindo uma interface intuitiva e funcional.
+#### *Rafael Filardi Caldeira: 
+Design e desenvolvimento do aplicativo.
 
-#### Victor Hugo Nunes Lima: 
-Encarregado da compra e organização das finanças, geriu os recursos necessários para a aquisição de componentes e manteve o controle financeiro do projeto. 
+#### *Victor Hugo Nunes Lima: 
+Gerenciamento de compras e finanças.
 
+ A utilização do Modelo Cascata garantiu que cada fase do projeto fosse completada de forma organizada e sequencial, assegurando uma transição suave entre as etapas e a realização dos objetivos definidos. 
 
-# Ferramentas
+### Ferramentas
 
-As ferramentas utilizadas no projeto foram: Arduino IDE, APP Inventor
-
+As ferramentas utilizadas no projeto foram: Arduino IDE, MIT App Inventor.
