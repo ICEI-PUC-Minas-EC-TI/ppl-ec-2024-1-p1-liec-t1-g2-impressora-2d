@@ -4,7 +4,7 @@
 # Instruções de utilização da Impressora 2d
 
 ## 1. Introdução
-Este dispositivo permite a criação de desenhos utilizando uma caneta movida quatro conjuntos de barbantes ligados a dois motores. O aplicativo e usado para controlar a impressora, conecta-se via Bluetooth e oferece opções de imagens predefinidas, além do controle manual da caneta.
+Este dispositivo permite a criação de desenhos utilizando uma caneta movida por dois motores de passo, conectados por um elastico e dois pedaços de barbante, que se movimentão em polias, que realizam o movimento da caneta. O aplicativo desenvolvido é usado para controlar a impressora, conecta-se via Bluetooth e oferece opções de imagens predefinidas, além do controle manual da caneta.
 
 ## 2. Como Usar o Aplicativo
 
@@ -22,6 +22,11 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida qu
 
 <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/42c91951-af39-41ce-863f-10db6dfd1588" width="300px" />
 
+• Confirme o pareamento e siga para a proxima etapa.
+
+<img src="" width="300px" />
+
+
 #### 3. Faça o download do aplicativo.
 • Faça o download do aplicativo em um dispositivo compatível (Android ou Emuladores. Ex: BlueStacks).
 
@@ -32,6 +37,9 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida qu
 
 #### 5. Abra o aplicativo da impressora.
 • Inicie o aplicativo no seu dispositivo.
+
+#### 6. Selecione o bluetooth.
+• Dentro do aplicativo clique no botão com icone bluetooth, apos isso na proxima tela selecione o dispositivo disponivel como "Impressora 2d".
 
 ### Seleção de Imagens
 #### 1. Centralize o suporte da caneta.
