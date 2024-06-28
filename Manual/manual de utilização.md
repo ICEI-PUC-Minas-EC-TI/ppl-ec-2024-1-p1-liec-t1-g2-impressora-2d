@@ -57,3 +57,4 @@ A caneta não se move? Verifique a conexão Bluetooth e reinicie o aplicativo.
 Problemas de conexão? Certifique-se de que o Bluetooth está ligado e o dispositivo está emparelhado.
 Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
 
+//wqdaw
