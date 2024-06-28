@@ -24,7 +24,7 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
 
 • Confirme o pareamento e siga para a proxima etapa.
 
-<img src="" width="300px" />
+<img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/7c85f717-f2d9-4ecc-91f8-fdf9b8a9389d" width="300px" />
 
 
 #### 3. Faça o download do aplicativo.
@@ -38,8 +38,15 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
 #### 5. Abra o aplicativo da impressora.
 • Inicie o aplicativo no seu dispositivo.
 
-#### 6. Selecione o bluetooth.
-• Dentro do aplicativo clique no botão com icone bluetooth, apos isso na proxima tela selecione o dispositivo disponivel como "Impressora 2d".
+#### 6. Selecione o bluetooth no app.
+• Dentro do aplicativo clique no botão com icone bluetooth.
+
+<img src="" width="300px" />
+
+
+• Na proxima tela, selecione o dispositivo disponivel como "Impressora 2d".
+
+<img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/c8e70f58-28a2-4990-b48e-d1c3ab4219a5" width="300px" />
 
 ### Seleção de Imagens
 #### 1. Centralize o suporte da caneta.
@@ -66,3 +73,4 @@ Problemas de conexão? Certifique-se de que o Bluetooth está ligado e o disposi
 Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
 
 //wqdaw
+<img src="" width="300px" />
