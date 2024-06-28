@@ -36,13 +36,13 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
  <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/cb68d4fe-fd89-4f03-9807-67e94b631ee5" width="300px" /> <img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/36d70bcb-a8d9-4172-9073-5c68cc182581" width="300px" />
 
 #### 5. Abra o aplicativo da impressora.
-• Inicie o aplicativo no seu dispositivo.
+• Ao iniciar o aplicativo, essa será a tela inicial.
+
+<img src="https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-impressora-2d/assets/169660238/f10b5b3e-cabd-48a8-92f7-626eb823aa20" width="700px" />
+
 
 #### 6. Selecione o bluetooth no app.
 • Dentro do aplicativo clique no botão com icone bluetooth.
-
-<img src="" width="300px" />
-
 
 • Na proxima tela, selecione o dispositivo disponivel como "Impressora 2d".
 
@@ -52,25 +52,36 @@ Este dispositivo permite a criação de desenhos utilizando uma caneta movida po
 #### 1. Centralize o suporte da caneta.
 • Mova manualmente o suporte da caneta até o centro do papel, para que o desenho fique alinhado.
 
-#### 2. Escolha a imagem desejada.
-• Na parte superior do aplicativo, Existem 4 opção de desenhos predefinidos. clique em uma das quatro imagens predefinidas para inciar a impressão do desenho selecionado.
+#### 2. Escolha o desenho e inicie a impressão.
+• Na parte superior direita do aplicativo, Existem 2 opções de desenhos predefinidos. clique em um dos dois desenhos predefinidas para inciar a impressão.
  
- 7. Inicie o desenho.
-• Clique em uma das quatro imagens predefinidas para inciar a impressão do desenho selecionado.
-Controle Manual da Caneta
-Acesse o modo de controle manual.
-Na parte inferior do aplicativo, há setas de direção.
-Movimente a caneta.
-Use as setas para mover a caneta para cima, baixo, direita e esquerda, e use o botão em formato de caneta para levantar ou descer a caneta no papel.
-3. Manutenção e Solução de Problemas
-Manutenção Básica
-Limpe a o Esp32 e os motores. Limpe apenas superficialmente as conexões e motores evitando que sujeiras estraguem os componentes.
-Troque os barbantes. Se a impressora estiver dando giros em falso ou qualquer problema relacionado aos barbantes que controlam a caneta, troque-os por novos barbantes.
- Verifique as conexões. Certifique-se de que todos os cabos estão firmemente conectados.
-Solução de Problemas
-A caneta não se move? Verifique a conexão Bluetooth e reinicie o aplicativo.
-Problemas de conexão? Certifique-se de que o Bluetooth está ligado e o dispositivo está emparelhado.
-Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
+### Controle Manual da Caneta
 
-//wqdaw
-<img src="" width="300px" />
+#### 1.Acesse o modo de controle manual.
+
+• Na parte inferior do aplicativo, há quatro botoes apresentados como setas, que funcionam como controle manual para impressora.
+
+#### 2. Movimente a caneta.
+• Use as setas para mover a caneta para cima, baixo, direita e 
+esquerda.
+
+• Abaixo do botão de bluetooth há um outro botão que define se a caneta está ou não encostando no papel.
+
+####3. Manutenção e Solução de Problemas
+
+###Manutenção Básica
+
+• Limpe a o Esp32 e os motores. Limpe apenas superficialmente as conexões e motores evitando que sujeiras estraguem os componentes.
+
+• Troque os barbantes. Se a impressora estiver girando em falso ou qualquer problema relacionado aos barbantes que controlam a caneta, troque-os por novos barbantes.
+
+• Verifique as conexões. Certifique-se de que todos os cabos estão firmemente conectados.
+
+#### Solução de Problemas
+• A caneta não se move? Verifique a conexão Bluetooth e reinicie o aplicativo.
+
+• Problemas de conexão? Certifique-se de que o Bluetooth está ligado e o dispositivo está emparelhado.
+
+• Caneta se mexendo errado? Verifique se os barbantes estão firmes e se o suporte da caneta está no meio do papel.
+
+(Feito por Flávio e João)
