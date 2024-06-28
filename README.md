@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# IMPRESSORA 2D
 
 `PUC Minas - Unidade Praça da Liberdade`
 
