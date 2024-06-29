@@ -102,4 +102,4 @@ O código também define várias funções para controlar os motores de passo, p
 
 ## Comunicação entre App e Hardware
 
-Descreva como foi o processo de comunicação entre App e arduino/ESP.
+O processo de comunicação entre o aplicativo e o Esp32 foi feito via bluetooth, utilizando a biblioteca BluetoothSerial para realizar essa comunicação, dentro do aplicativo foi adicionado a função bluetooth já disponível nas bibliotecas do app inventor, assim sendo necessário apenas a configuração dos blocos para se comunicar com o esp32. 
