@@ -10,4 +10,4 @@
 
 * DAZ_projects. the SIMPLEST cnc PEN PLOTTER | how to build it. YouTube, 23 jun. 2021. Disponível em: https://www.youtube.com/watch?v=zFRRUZdz1HY. Acesso em: 29 jun. 2024.
 
-* Drys, Zane. IPAD: Interactive Programmable Arts Display. GitHub, 2024. Disponível em: https://github.com/zanedrys/IPAD](https://github.com/zanedrys/IPAD. Acesso em: 29 jun. 2024.
+* Drys, Zane. IPAD: Interactive Programmable Arts Display. GitHub, 2024. Disponível em: https://github.com/zanedrys/IPAD. Acesso em: 29 jun. 2024.
