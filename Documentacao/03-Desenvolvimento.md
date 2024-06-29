@@ -97,6 +97,9 @@ Ainda enfrentamos dificuldades para fazer a impressora se mover para os lados co
 
 O desenvolvimento do código para o Arduino/ESP32 focou em criar uma comunicação eficiente entre um aplicativo e o microcontrolador ESP32 via Bluetooth. O código utiliza as bibliotecas BluetoothSerial e ESP32Servo para facilitar a comunicação sem fio e o controle de servomotores, respectivamente. No setup, a comunicação serial e Bluetooth são inicializadas, e os pinos de controle dos motores de passo são configurados. No loop principal, o código lê os valores recebidos via Bluetooth e executa ações correspondentes, como mover os motores de passo e controlar a posição do servomotor, usando um switch case para determinar a ação baseada no valor recebido.
 
+
+O código também define várias funções para controlar os motores de passo, permitindo movimentos em diferentes direções e velocidades. A função caneta() alterna a posição do servomotor entre 0 e 155 graus. A abordagem modular do código permite que cada comando do aplicativo acione uma sequência específica de operações no ESP32, garantindo uma execução precisa e confiável das tarefas. Assim, o software é projetado para minimizar interferências externas e manter uma comunicação robusta e eficiente entre o aplicativo e o microcontrolador.
+
 ## Comunicação entre App e Hardware
 
 Descreva como foi o processo de comunicação entre App e arduino/ESP.
