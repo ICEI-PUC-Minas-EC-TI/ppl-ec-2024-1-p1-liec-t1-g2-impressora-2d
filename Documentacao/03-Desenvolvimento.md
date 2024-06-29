@@ -89,13 +89,13 @@ A escolha do projeto resultou em uma montagem mais simples, mas embora a parte f
 
 Inicialmente, adquirimos todos os materiais seguindo um projeto já desenvolvido por outra pessoa. Quando a montagem do Arduino juntamente com a placa controladora foi concluída, não foi possível implementar um software para controle da impressora.
 
-Reunimo-nos novamente e adaptamos o projeto para uso de outros controladores. Dessa forma, conseguimos fazer com que tudo se comunicasse, e agora já é possível controlar os motores através do aplicativo.
+Reunimo-nos novamente e adaptamos o projeto para uso de outros controladores para o motor de passo. Dessa forma, conseguimos fazer com que tudo se comunicasse, e agora já é possível controlar os motores através do aplicativo.
 
-Ainda enfrentamos dificuldades para fazer a impressora se mover para os lados corretamente, sendo uma questão tanto de proporção entre a rotação dos motores quanto tensão do elástico e tamanho do barbante. Não conseguimos chegar a um resultado que faça uma linha completamente reta para os lados, mas já temos um resultado bastante positivo.
+Ainda enfrentamos dificuldades para fazer a impressora se mover para os lados corretamente, sendo uma questão tanto de proporção entre a rotação dos motores quanto tensão do elástico e tamanho do barbante. Não conseguimos chegar a um resultado que faça uma linha completamente reta para os lados, mas já temos um resultado bastante positivo em relação ao inicio do projeto.
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+O desenvolvimento do código para o Arduino/ESP32 focou em criar uma comunicação eficiente entre um aplicativo e o microcontrolador ESP32 via Bluetooth. O código utiliza as bibliotecas BluetoothSerial e ESP32Servo para facilitar a comunicação sem fio e o controle de servomotores, respectivamente. No setup, a comunicação serial e Bluetooth são inicializadas, e os pinos de controle dos motores de passo são configurados. No loop principal, o código lê os valores recebidos via Bluetooth e executa ações correspondentes, como mover os motores de passo e controlar a posição do servomotor, usando um switch case para determinar a ação baseada no valor recebido.
 
 ## Comunicação entre App e Hardware
 
