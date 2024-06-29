@@ -79,7 +79,7 @@ O aplicativo possui duas telas, sendo uma principal com todas as funçoes e outr
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+O software foi desenvolvido com o foco de simplificar e evitar possíveis interferências externas na comunicação. A comunicação é feita através do Bluetooth, onde todo o processamento e controle são realizados pelo ESP32. Foi definido que cada valor enviado pelo aplicativo para o ESP32 representaria uma sequência de comandos que seriam executados.
 
 ## Desenvolvimento do Hardware
 
