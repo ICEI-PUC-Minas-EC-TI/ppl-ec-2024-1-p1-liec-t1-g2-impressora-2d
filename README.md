@@ -34,8 +34,8 @@ A impressora incorpora motores de passo para o movimento nos eixos x e y e um se
 
 # Aplicativo para Smartphone
 
-<li><a href="App/Impressora2d_2.apk"> Aplicativo.apk </a></li>
-<li><a href="App/Impressora2d_2.aia"> Aplicativo.aia </a></li>
+<li><a href="App/Impressora2d_2.1.apk"> Aplicativo.apk </a></li>
+<li><a href="App/Impressora2d_2.1.aia"> Aplicativo.aia </a></li>
 
 # Apresentação
 
